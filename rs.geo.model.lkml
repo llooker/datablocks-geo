@@ -1,4 +1,4 @@
-connection: "datablocks_spectrum"
+connection: "redshift-datablocks"
 
 # include all the BQ view files
 include: "rs.explore"
