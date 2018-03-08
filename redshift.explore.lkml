@@ -1,4 +1,4 @@
-include: "rs.*.view.lkml"
+include: "redshift.*.view.lkml"
 
 
 explore: geo {

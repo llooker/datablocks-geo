@@ -1,4 +1,4 @@
-include: "bq.*.view.lkml"
+include: "bigquery.*.view.lkml"
 
 
 explore: geo {
